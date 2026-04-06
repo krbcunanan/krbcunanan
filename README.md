@@ -1,5 +1,12 @@
-## Hi there 👋
+# 👋🏼 Hi, I am Katie! 
+✍🏼 A sociology graduate from the premiere state university in the Philippines interested in data analytics<br>🖥️ Currently learning R, Python, SQL, Power BI, and Tableau<br>💭 Knowledgeable and comfortable working with economic, social, and political datasets from reputable institutions
 
+
+# 💻 Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **krbcunanan/krbcunanan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
