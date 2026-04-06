@@ -1,5 +1,5 @@
 # 👋🏼 Hi, I am Katie! 
-✍🏼 A sociology graduate from the premiere state university in the Philippines interested in data analytics<br>🖥️ Currently learning R, Python, SQL, Power BI, and Tableau<br>💭 Knowledgeable and comfortable working with economic, social, and political datasets from reputable institutions
+✍🏼 A sociology graduate from the premier state university in the Philippines interested in data analytics<br>🖥️ Currently learning R, Python, SQL, Power BI, and Tableau<br>💭 Knowledgeable and comfortable working with economic, social, and political datasets from reputable institutions
 
 
 # 💻 Tech Stack
